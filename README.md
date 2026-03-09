@@ -47,3 +47,6 @@ The program will scan the network and list active devices.
 - OS detection
 - Export results to CSV
 - Web dashboard
+## Example Output
+
+![Network Scan](Network Scanner.PNG)
