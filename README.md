@@ -48,5 +48,7 @@ The program will scan the network and list active devices.
 - OS detection
 - Export results to CSV
 - Web dashboard
+
+
 ![Network Scanner](https://github.com/user-attachments/assets/a960992b-2e73-4da1-80b8-a0b45f8a54f5)
 
